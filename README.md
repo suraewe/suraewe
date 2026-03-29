@@ -1,4 +1,4 @@
-# Hi, I'm Suraj Bisht 👋
+# Hi, I'm Suraj Bisht 
 
  BTech CSE (AI & ML) Student  
  VIT Bhopal University  
