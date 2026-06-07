@@ -10,3 +10,5 @@
 - Python
 - Data Structures & Algorithms
 - Machine Learning (Beginner)
+- C++
+  
